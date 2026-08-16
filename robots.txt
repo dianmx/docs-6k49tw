@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-arl2y4.juragan89alt.site/sitemap.xml
